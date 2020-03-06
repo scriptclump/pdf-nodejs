@@ -1,0 +1,27 @@
+{
+  "name": "pdf-nodejs",
+  "version": "1.0.0",
+  "description": "Export PDF using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptclump/pdf-nodejs.git"
+  },
+  "keywords": [
+    "Export",
+    "PDF",
+    "PDF",
+    "Handeling",
+    "File",
+    "Handeling"
+  ],
+  "author": "Basant Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scriptclump/pdf-nodejs/issues"
+  },
+  "homepage": "https://github.com/scriptclump/pdf-nodejs#readme"
+}
